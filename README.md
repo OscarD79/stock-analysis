@@ -18,4 +18,4 @@
 
 ### In Summary, refactoring code clearly offers an opportunity to steamline the process and make improvements to the original code. However, it creates opportunities potential mistakes that could cause new issues within the code. Specifically, looking at this situation with VBA, any time an error occurred testing the code, the problem couldn't be harder to find. It requires meticulous combing through the code to uncover even a slight discrepancy.
 
-![VBA_Challenge.xlsm](/VBA_Challenge.xlsm)
+[VBA_Challenge.xlsm](./VBA_Challenge.xlsm)
