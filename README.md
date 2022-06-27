@@ -12,5 +12,5 @@
 
 ### Meanwhile in 2018, all but two stocks had decreased in value. Worth noting is that the stocks that had increased in value had increased each by over 80%. For the remaining 10 stocks, the increase range from 3.54% to decreases as large as 62%. For 2018 the refactored script took 0.55 seconds to load as opposed to the original script which loaded 0.56 seconds. See the below screenshot for a reference for the refactored code. 1
 
-![VBA_Challenge_2018.png](./Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](./Resources/VBA_Challenge_208.png)
 
